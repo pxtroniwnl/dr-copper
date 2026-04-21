@@ -38,6 +38,6 @@ El proyecto ha completado las etapas de validación necesarias para el modelado 
 
 ## 👨‍💻 Autor
 **Alejandro Patron Montero**
-Estudiante de Ciencia de Datos / Ingeniería de Sistemas
+Estudiante de Ciencia de Datos
 Universidad Tecnológica de Bolívar (UTB)
 Cartagena de Indias, Colombia, 2026
