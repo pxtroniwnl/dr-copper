@@ -1,0 +1,9 @@
+,valor
+RMSE_Naive,0.936021
+RMSE_SARIMAX,0.935839
+RMSE_Prophet,0.425306
+RMSE_LSTM,0.101791
+GARCH_persistencia,0.995608
+GARCH_vol_lp_anual,27.994427
+VaR95_exceedance_obs,2.080444
+VaR99_exceedance_obs,0.693481

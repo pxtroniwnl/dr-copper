@@ -1,0 +1,5 @@
+,p_lag10,p_lag20,ruido_blanco
+Naïve,0.0,0.0,False
+SARIMAX,0.0,0.0,False
+Prophet,0.0,0.0,False
+LSTM,3.3576452644743397e-34,6.866609059390357e-39,False
